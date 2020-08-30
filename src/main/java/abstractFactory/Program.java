@@ -20,7 +20,6 @@ public class Program {
         tires.create();
 
         System.out.println();
-        System.out.println();
 
         autoPartsFactory = new LuxuryCarPartsFactory();
 
